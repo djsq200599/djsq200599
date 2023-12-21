@@ -1,15 +1,18 @@
--👋 Hello, I'm @djsq200599
+# 👋 Hello, I'm Daniel Suarez (@djsq200599)
 
--👀 I am interested in developing hybrid applications and leading projects.
+## 👀 About Me
+I'm passionate about developing hybrid applications and leading projects. Currently, I'm immersed in learning React Native to further enhance my skill set.
 
--🌱 I'm currently learning React Native.
+## 💼 Experience
+Collaborating on Quantum Waves Developer with my colleague [@Ragnaars](https://github.com/Ragnaars), where we work on exciting projects at the intersection of technology and innovation.
 
--💞️ I am collaborating on Quantum Waves Developer together with colleague @Ragnaars.
+## 📫 Contact Me
+Feel free to reach out to me at danieljsuarezq@gmail.com.
 
--📫 You can contact me through danieljsuarezq@gmail.com.
-<!---
-djsq200599/djsq200599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djsq200599&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djsq200599&layout=compact)
+## 🚀 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=djsq200599&show_icons=true)
+
+## 🛠️ Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djsq200599&layout=compact)
