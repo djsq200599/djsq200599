@@ -10,7 +10,7 @@ I collaborate with my colleague [@Ragnaars](https://github.com/Ragnaars) at Quan
 [My Credly Badges](https://www.credly.com/earner/earned)
 
 ## 🌐 Perfil
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=your_linkedin_profile)](your_linkedin_profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=your_linkedin_profile)](https://www.linkedin.com/in/danieljsq/)
 
 ## 📫 Contact Me
 Feel free to reach out to me at danieljsuarezq@gmail.com or da.suarez@duocuc.cl.
